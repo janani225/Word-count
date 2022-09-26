@@ -27,10 +27,8 @@ Calling the function and [rinting the number of words.
 ```
 '''
 #Program to count number of words in the text file
-
-#Developed by:Alagu nachiyar
-
-#Register no:22002084
+#Developed by:V.S.JANANI
+#Register no:22003192
 '''
 
 num_word=0
