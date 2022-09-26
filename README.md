@@ -6,36 +6,48 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-To write a python program for getti
+To write a python program for getting the word count from a text file.
 
-### Step 2: 
- 
+### Step 2:
+Open the required file by using the function "with".
+
 ### Step 3: 
+Then use the laptop to assign the i value in the file.
 
-### Step 4:  
+### Step 4:
+Using split function to spilt the words.
 
-### Step 5: 
+### Step 5:
+Finding the given length of the words by using len() fuction.
 
-### Step 6: 
+### Step 6:
+Calling the function and [rinting the number of words.
 
 ## PROGRAM:
-
-'''
-Program to count the number of words from text file
-Developed by:Janani VS
-Register no:22003192
-'''
-
 ```
-num_words=0
-with open('janani.txt') as f3:
-    for i in f3:
+'''
+#Program to count number of words in the text file
+
+#Developed by:Alagu nachiyar
+
+#Register no:22002084
+'''
+
+num_word=0
+with open('nachi.txt') as f6:
+    for i in f6:
         word=i.split()
-        num_words+=len(word)
-print("Number of words={}".format(num_words))
+        num_word+=len(word)
+print("Number of words:{}".format(num_word))
 ```
 
 ### OUTPUT:
+![count wordex]![Screenshot from 2022-09-26 14-12-46](https://user-images.githubusercontent.com/113497333/192232743-0a972777-836f-4f53-a41c-edc25760d196.png)
+
+![txtfile]![Screenshot from 2022-09-26 14-13-51](https://user-images.githubusercontent.com/113497333/192233047-1669b17a-fcc7-4e95-8268-5e5da9043849.png)
+
+
+
 
 
 
