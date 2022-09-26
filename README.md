@@ -31,12 +31,12 @@ Calling the function and Printing the number of words.
 #Register no:22003192
 '''
 
-num_word=0
-with open('nachi.txt') as f6:
-    for i in f6:
+num_words=0
+with open('janani.txt') as f3:
+    for i in f3:
         word=i.split()
-        num_word+=len(word)
-print("Number of words:{}".format(num_word))
+        num_words+=len(word)
+print("Number of words={}".format(num_words))
 ```
 
 ### OUTPUT:
