@@ -21,7 +21,7 @@ Using split function to spilt the words.
 Finding the given length of the words by using len() fuction.
 
 ### Step 6:
-Calling the function and [rinting the number of words.
+Calling the function and Printing the number of words.
 
 ## PROGRAM:
 ```
@@ -40,9 +40,9 @@ print("Number of words:{}".format(num_word))
 ```
 
 ### OUTPUT:
-![count wordex]![Screenshot from 2022-09-26 14-12-46](https://user-images.githubusercontent.com/113497333/192232743-0a972777-836f-4f53-a41c-edc25760d196.png)
+![Screenshot from 2022-09-26 14-12-46](https://user-images.githubusercontent.com/113497333/192232743-0a972777-836f-4f53-a41c-edc25760d196.png)
 
-![txtfile]![Screenshot from 2022-09-26 14-13-51](https://user-images.githubusercontent.com/113497333/192233047-1669b17a-fcc7-4e95-8268-5e5da9043849.png)
+![Screenshot from 2022-09-26 14-13-51](https://user-images.githubusercontent.com/113497333/192233047-1669b17a-fcc7-4e95-8268-5e5da9043849.png)
 
 
 
